@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/vergrobern/static/css/main.be5e8dcf.css",
+    "main.js": "/vergrobern/static/js/main.46508f5d.js",
+    "static/js/787.41e34bc5.chunk.js": "/vergrobern/static/js/787.41e34bc5.chunk.js",
+    "static/media/coming-soon.gif": "/vergrobern/static/media/coming-soon.92098398e17df7a588a3.gif",
+    "static/media/boy-with-tablet.png": "/vergrobern/static/media/boy-with-tablet.5a12b62a50ffe5a1a3c4.png",
+    "static/media/business.png": "/vergrobern/static/media/business.03062fdd8f15d66e399d.png",
+    "static/media/web-preview.png": "/vergrobern/static/media/web-preview.78760ea255fcd4fef268.png",
+    "static/media/relax.png": "/vergrobern/static/media/relax.aab7171c9776c3ee4840.png",
+    "static/media/services.png": "/vergrobern/static/media/services.5157edf0cd6fa616b93c.png",
+    "static/media/businessdev.png": "/vergrobern/static/media/businessdev.8e0bac87c466142d25a7.png",
+    "static/media/branding.png": "/vergrobern/static/media/branding.8a0b9fb044395c8f44e9.png",
+    "static/media/brand.png": "/vergrobern/static/media/brand.f533799d06df658402da.png",
+    "static/media/boy-with-headset.png": "/vergrobern/static/media/boy-with-headset.43dbf136ae6c712562af.png",
+    "static/media/curly.png": "/vergrobern/static/media/curly.8d33879d2ab96d543df9.png",
+    "static/media/png2.png": "/vergrobern/static/media/png2.2dc2239bec14c7fba8c7.png",
+    "static/media/about.png": "/vergrobern/static/media/about.0596815772ba28f1c6f0.png",
+    "static/media/world-map.png": "/vergrobern/static/media/world-map.fbf98cae818d117626e2.png",
+    "static/media/website-prototype.png": "/vergrobern/static/media/website-prototype.9e5aab14a23f9d590267.png",
+    "index.html": "/vergrobern/index.html",
+    "main.be5e8dcf.css.map": "/vergrobern/static/css/main.be5e8dcf.css.map",
+    "main.46508f5d.js.map": "/vergrobern/static/js/main.46508f5d.js.map",
+    "787.41e34bc5.chunk.js.map": "/vergrobern/static/js/787.41e34bc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be5e8dcf.css",
+    "static/js/main.46508f5d.js"
+  ]
+}
